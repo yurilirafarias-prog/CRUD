@@ -1,3 +1,4 @@
-   <p>Todos os Direitos Reservados Caio Boy®</p>
+   <p>Todos os Direitos Reservados®</p>
    </body>
+
 </html>
